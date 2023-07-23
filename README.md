@@ -1,2 +1,2 @@
 # Dapper_DotNet
- Aplicação utilizando o Dapper em conjunto com o dotnet
+ Utilizando o Dapper com MySQL
